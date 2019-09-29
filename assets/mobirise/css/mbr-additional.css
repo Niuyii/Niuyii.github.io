@@ -1099,8 +1099,8 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/20160408102629-wcmdb.thumb.700-700x394.jpg");
 }
 .cid-rDrjmyfqt2 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 105px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-rDrjmyfqt2 h4 {
@@ -1144,7 +1144,7 @@ section.lazy-placeholder:after {
 .cid-rDo19ktRRS {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/sorrydearies-textures-1-500x500.jpg");
 }
 .cid-rDo19ktRRS h2 {
   text-align: left;
@@ -1204,53 +1204,42 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rDo19ktRRS H4 {
-  color: #cc2952;
+  color: #232323;
 }
 .cid-rDo19ktRRS P {
   color: #232323;
 }
 .cid-rDo19ktRRS H2 {
   color: #cc2952;
-  text-align: center;
+  text-align: left;
 }
 .cid-rDrhzAMhAT {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/20180128124918-fiwam-1200x675.jpg");
 }
-.cid-rDrgeGjTQu {
+.cid-rDsLpgTeEy {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
-.cid-rDrgeGjTQu h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-rDrgeGjTQu p {
+.cid-rDsLpgTeEy .mbr-text {
   color: #767676;
-  text-align: left;
-  margin-bottom: 0;
 }
-.cid-rDrgeGjTQu .card-img {
-  text-align: left;
-  background-color: #ffffff;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  padding: 3rem 2.5rem 0 2.5rem;
+.cid-rDsLpgTeEy h4 {
+  text-align: center;
 }
-.cid-rDrgeGjTQu .card-img span {
-  font-size: 72px;
-  color: #707070;
+.cid-rDsLpgTeEy p {
+  text-align: center;
 }
-.cid-rDrgeGjTQu .card-box {
-  padding: 0rem 2.5rem 3rem 2.5rem;
-  background-color: #ffffff;
+.cid-rDsLpgTeEy .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-rDrlonQAxy {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/20171107153959-bkljx-1024x576.jpeg");
 }
 .cid-rDrlonQAxy .mbr-section-subtitle {
   color: #767676;
