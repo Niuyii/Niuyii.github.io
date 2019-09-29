@@ -1096,55 +1096,53 @@ section.lazy-placeholder:after {
 .cid-rDnZeQA0gS {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/20160408102629-wcmdb.thumb.700-700x394.jpg");
+  background-image: url("../../../assets/images/20190224094012-hhtll-700x1247.jpeg");
 }
-.cid-rDrjmyfqt2 {
-  padding-top: 105px;
-  padding-bottom: 120px;
+.cid-rDt5c60Ddr {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-rDrjmyfqt2 h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-rDrjmyfqt2 p {
+.cid-rDt5c60Ddr .mbr-text {
   color: #767676;
-  text-align: left;
-  margin-bottom: 0;
 }
-.cid-rDrjmyfqt2 .card-img {
-  text-align: left;
-  -webkit-flex: 1 0 auto;
-  flex: 1 0 auto;
-  width: auto;
+.cid-rDt5c60Ddr h4 {
+  text-align: center;
 }
-.cid-rDrjmyfqt2 .card-img span {
-  font-size: 72px;
-  color: #ff3366;
+.cid-rDt5c60Ddr p {
+  text-align: center;
 }
-.cid-rDrjmyfqt2 .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-  width: 100%;
+.cid-rDt5c60Ddr .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
-@media (max-width: 991px) {
-  .cid-rDrjmyfqt2 .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
-  }
-  .cid-rDrjmyfqt2 .card-box {
-    padding-left: 0;
-  }
+.cid-rDt4V6BTNk {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rDt4V6BTNk .mbr-text {
+  color: #767676;
+}
+.cid-rDt4V6BTNk h4 {
+  text-align: center;
+}
+.cid-rDt4V6BTNk p {
+  text-align: center;
+}
+.cid-rDt4V6BTNk .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-rDnZAUscCp {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/20160408102629-wcmdb.thumb.700-700x394.jpg");
+  background-image: url("../../../assets/images/20180128124918-fiwam-1200x675.jpg");
 }
 .cid-rDo19ktRRS {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/sorrydearies-textures-1-500x500.jpg");
+  background-color: #ffffff;
 }
 .cid-rDo19ktRRS h2 {
   text-align: left;
